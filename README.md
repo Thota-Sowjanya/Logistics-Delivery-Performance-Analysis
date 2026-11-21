@@ -38,6 +38,9 @@ SQL was used to analyze:
 - Data validation
 
 ## Power BI Dashboard
+### Dashboard Preview
+![Logistics Delivery Dashboard](PowerBI/Logistics_Dashboard.png)
+
 An interactive Power BI dashboard was developed to visualize shipment performance and delivery efficiency.
 
 ### Key Performance Indicators (KPIs)
