@@ -39,7 +39,7 @@ SQL was used to analyze:
 
 ## Power BI Dashboard
 ### Dashboard Preview
-![Logistics Delivery Dashboard](PowerBI/Logistics_Dashboard.png)
+![Logistics Delivery Dashboard](PowerBI/logistics_dashboard.png)
 
 An interactive Power BI dashboard was developed to visualize shipment performance and delivery efficiency.
 
